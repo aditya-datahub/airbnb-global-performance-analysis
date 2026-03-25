@@ -6,7 +6,7 @@ An interactive Power BI dashboard analyzing global Airbnb performance across maj
 
 ## 📷 Dashboard Preview
 
-![Overview](screenshots/overview.png)
+![Overview](images/1.png)
 
 ---
 
@@ -64,21 +64,22 @@ These datasets are combined through data modeling to generate deeper insights.
 ## 📷 Dashboard Details
 
 ### 🔹 Market Share & Pricing Insights
-![Market](screenshots/market.png)
+![Market](images/2.png)
 
 ### 🔹 Ratings & Performance Analysis
-![Ratings](screenshots/ratings.png)
+![Ratings](images/3.png)
 
 ---
 
 ## 📁 Project Structure
 
+```
 📦 airbnb-dashboard
 ┣ 📊 Airbnb_Dashboard.pbix
 ┣ 📷 screenshots/
 ┣ 📄 README.md
 ┗ 📄 LICENSE
-
+```
 ---
 
 ## 🎯 Key Learnings
