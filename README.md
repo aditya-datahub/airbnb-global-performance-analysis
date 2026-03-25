@@ -66,7 +66,7 @@ These datasets are combined through data modeling to generate deeper insights.
 ### 🔹 Market Share & Pricing Insights
 ![Market](images/2.png)
 
-### 🔹 Ratings & Performance Analysis
+### 🔹 Review Frequency & Seasonality Trends
 ![Ratings](images/3.png)
 
 ---
@@ -76,7 +76,7 @@ These datasets are combined through data modeling to generate deeper insights.
 ```
 📦 airbnb-dashboard
 ┣ 📊 Airbnb_Dashboard.pbix
-┣ 📷 screenshots/
+┣ 📷 images/
 ┣ 📄 README.md
 ┗ 📄 LICENSE
 ```
