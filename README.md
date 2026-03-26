@@ -31,6 +31,11 @@ The dashboard transforms data into **clear, actionable insights** through visual
 
 These datasets are combined through data modeling to generate deeper insights.
 
+Due to large file sizes, datasets are hosted externally:
+
+🔗 Listings Dataset: https://drive.google.com/file/d/1yPDHPlRVoKWdDa-WH5nAP0b4YyV5gAwz/view?usp=drive_link 
+🔗 Reviews Dataset:  https://drive.google.com/file/d/17MMFMK9jJvTJ9cUg83b20xsIDe0J25Uu/view?usp=drive_link
+
 ---
 
 ## 📈 Key Insights
